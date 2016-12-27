@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordKiller</string>
+    <string name="hide_string">xxxxxxx</string>
+    <string name="lasted_skin">最后查看：</string>
+    <string name="example">例句：</string>
+    <string name="test_hint">仔细想想？</string>
+    <string name="word_review_title">复习单词</string>
+    <string name="word_review_dangerous_text">亲，你有%1$d个单词急需复习!还有%2$d个单词需要复习。</string>
+    <string name="word_review_warning_text">亲，你有%1$d个单词需要复习。</string>
+    <string name="no_word_return">没有网络连接或单词拼写错误，请重试。</string>
+</resources>
